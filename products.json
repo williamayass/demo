@@ -1,0 +1,8 @@
+{
+  "Product": [
+    { "id": 1, "productName": "Water" },
+    { "id": 2, "productDescription": "A water bottle." },
+    { "id": 3, "productPrice": "$10" }
+  ],
+  "Status": "Ok"
+}
